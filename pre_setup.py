@@ -14,7 +14,7 @@ OPENKIM_TEST_DRIVERS = ["EquilibriumCrystalStructure__TD_457028483760_003"]
 
 # List of URLs of development Test Drivers to test
 DEVEL_TEST_DRIVERS = [
-    "https://github.com/openkim-hackathons/StackingFaultFCC__TD_000000654321_000/archive/refs/tags/v000a3.tar.gz"
+    "https://github.com/openkim-hackathons/StackingFaultFCC__TD_000000654321_000/archive/refs/tags/v000a4.tar.gz"
 ]
 
 
